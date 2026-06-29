@@ -1,0 +1,22 @@
+# Secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Streamlit / runtime state
+.streamlit/secrets.toml
+data/_snapshots.json
+data/alert_log.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.log

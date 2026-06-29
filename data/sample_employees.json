@@ -1,0 +1,18 @@
+[
+  {"emp_id": "E-1042", "name": "Aarav Sharma",      "home": "India",          "host": "United Kingdom", "visa_type": "Skilled Worker",        "salary_local": 39500, "currency": "GBP", "assignment_end_days": 210, "dependents": 2},
+  {"emp_id": "E-1067", "name": "Priya Nair",        "home": "India",          "host": "United Kingdom", "visa_type": "Skilled Worker",        "salary_local": 42000, "currency": "GBP", "assignment_end_days": 90,  "dependents": 0},
+  {"emp_id": "E-1090", "name": "Daniel Okafor",     "home": "Nigeria",        "host": "United Kingdom", "visa_type": "Skilled Worker",        "salary_local": 40100, "currency": "GBP", "assignment_end_days": 365, "dependents": 1},
+  {"emp_id": "E-2011", "name": "Wei Chen",          "home": "China",          "host": "United States",  "visa_type": "H-1B",                  "salary_local": 132000,"currency": "USD", "assignment_end_days": 540, "dependents": 1},
+  {"emp_id": "E-2034", "name": "Sofia Martinez",    "home": "Mexico",         "host": "United States",  "visa_type": "H-1B",                  "salary_local": 118000,"currency": "USD", "assignment_end_days": 120, "dependents": 0},
+  {"emp_id": "E-2056", "name": "Rahul Verma",       "home": "India",          "host": "United States",  "visa_type": "H-1B",                  "salary_local": 145000,"currency": "USD", "assignment_end_days": 30,  "dependents": 3},
+  {"emp_id": "E-3001", "name": "Elena Petrova",     "home": "Russia",         "host": "Netherlands",    "visa_type": "Highly Skilled Migrant","salary_local": 5400,  "currency": "EUR", "assignment_end_days": 280, "dependents": 0},
+  {"emp_id": "E-3019", "name": "Tomas Novak",       "home": "Czechia",        "host": "Netherlands",    "visa_type": "Highly Skilled Migrant","salary_local": 5100,  "currency": "EUR", "assignment_end_days": 60,  "dependents": 2},
+  {"emp_id": "E-4002", "name": "Hiroshi Tanaka",    "home": "Japan",          "host": "Singapore",      "visa_type": "Employment Pass",       "salary_local": 6800,  "currency": "SGD", "assignment_end_days": 400, "dependents": 1},
+  {"emp_id": "E-4025", "name": "Grace Lim",         "home": "Malaysia",       "host": "Singapore",      "visa_type": "Employment Pass",       "salary_local": 5600,  "currency": "SGD", "assignment_end_days": 45,  "dependents": 0},
+  {"emp_id": "E-5008", "name": "Lukas Weber",       "home": "Austria",        "host": "Germany",        "visa_type": "EU Blue Card",          "salary_local": 58000, "currency": "EUR", "assignment_end_days": 320, "dependents": 1},
+  {"emp_id": "E-5030", "name": "Amara Diallo",      "home": "Senegal",        "host": "Germany",        "visa_type": "Opportunity Card",      "salary_local": 49000, "currency": "EUR", "assignment_end_days": 150, "dependents": 0},
+  {"emp_id": "E-6004", "name": "Olivia Brown",      "home": "United Kingdom", "host": "Canada",         "visa_type": "Express Entry",         "salary_local": 96000, "currency": "CAD", "assignment_end_days": 600, "dependents": 2},
+  {"emp_id": "E-6021", "name": "Marco Rossi",       "home": "Italy",          "host": "Canada",         "visa_type": "Express Entry",         "salary_local": 88000, "currency": "CAD", "assignment_end_days": 75,  "dependents": 0},
+  {"emp_id": "E-7003", "name": "Fatima Al-Sayed",   "home": "Egypt",          "host": "UAE",            "visa_type": "Golden Visa",           "salary_local": 32000, "currency": "AED", "assignment_end_days": 730, "dependents": 3},
+  {"emp_id": "E-8002", "name": "James Wilson",      "home": "United States",  "host": "United Kingdom", "visa_type": "Skilled Worker",        "salary_local": 41500, "currency": "GBP", "assignment_end_days": 18,  "dependents": 1}
+]
